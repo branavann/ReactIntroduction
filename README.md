@@ -1,6 +1,6 @@
 # ReactIntroduction
 
-Embarking on a journey to learn blockchain development. Currently familiarzing myself with React to create a front-end application to support various ethereum contracts.
+Embarking on a journey to learn blockchain development. Currently familiarizing myself with React to create a front-end application to support various ethereum contracts.
 
 ## Present Goals:
 
