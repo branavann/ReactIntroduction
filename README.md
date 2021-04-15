@@ -3,13 +3,15 @@
 
 Embarking on a journey to learn blockchain development. Currently familiarzing myself with React to create a front-end application to support various ethereum contracts.
 
-Present Goals:
+## Present Goals:
 
 * React Introduction
 * Javscript Introduction
 * Ethereum and Solidity: The Complete Developer's Guide
 * MIT: Blockchain and Finance
 * CryptoZombies
+
+## Project Description:
 
 In this project, I’ll build a program that allows users to click an animal on the screen in order to have a fun fact pop up.
 
