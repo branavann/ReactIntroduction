@@ -4,6 +4,6 @@ In this project, I built a simple social network for pets. Users will be able to
 ## Application of Concepts:
 
 * Lifecycle Methods
-*   componentDidMount()
-*   componentDidUpdate()
-*   componentWillUnmount()
+  * componentDidMount()
+  * componentDidUpdate()
+  * componentWillUnmount()
